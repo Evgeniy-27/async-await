@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "async-await",
   "version": "1.0.0",
-  "description": "",
+  "description": "Вы устали от бесконечной цепочки `.then().then().catch()` и решили перейти на `async/await`.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -31,5 +31,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evgeniy-27/async-await.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Evgeniy-27/async-await/issues"
+  },
+  "homepage": "https://github.com/Evgeniy-27/async-await#readme"
 }
